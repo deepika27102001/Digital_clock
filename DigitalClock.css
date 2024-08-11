@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #282c34;
+    color: #61dafb;
+    font-family: 'Arial', sans-serif;
+    font-size: 48px;
+}
+.clock {
+    display: flex;
+    align-items: baseline;
+}
+#period {
+    font-size: 24px;
+    margin-left: 10px;
+}
